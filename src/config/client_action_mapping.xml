@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mappings>
+    <action action = "userLogin" class = "com.mec.review.netWork.view.client.UserLogInView" method = "afterLogin">
+        <parameter name="user" type="com.mec.review.netWork.userModel.UserInfo"/>
+    </action>
+</mappings>

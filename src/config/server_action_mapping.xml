@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mappings>
+    <action action = "userLogin" class = "edu.xupt.cs.netWork.userAction.UserAction" method = "userLogin">
+        <parameter name="id" type="String"/>
+        <parameter name="password" type="String"/>
+    </action>
+</mappings>
